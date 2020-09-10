@@ -3,6 +3,7 @@ Find your next 'yevma' (meal) based on ingredients, resources and time.
 
 ## Prerequisites
 
+```
 brew update
 brew install pyenv
 
@@ -13,3 +14,4 @@ pip install -r requirements.txt
 
 python3 -m venv venv
 source venv/bin/activate
+```
