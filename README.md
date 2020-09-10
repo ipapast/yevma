@@ -1,7 +1,7 @@
 # yevma
 Find your next 'yevma' (meal) based on ingredients, resources and time.
 
-##Prerequisites
+## Prerequisites
 
 brew update
 brew install pyenv
