@@ -15,3 +15,8 @@ pip install -r requirements.txt
 python3 -m venv venv
 source venv/bin/activate
 ```
+
+### TODO
+* Integrate with 3rd party API
+* Frontend
+
